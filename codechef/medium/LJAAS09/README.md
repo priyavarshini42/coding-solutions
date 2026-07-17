@@ -13,7 +13,7 @@ Print the number 108 using arithmetic operations on the numbers 9 and 12.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-17T07:10:49.396Z  
+**Submitted:** 2026-07-17T07:13:16.214Z  
 
 ```java
 class Codechef {
