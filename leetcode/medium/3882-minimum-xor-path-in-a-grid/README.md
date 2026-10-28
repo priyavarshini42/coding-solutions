@@ -72,9 +72,9 @@ The XOR value of this path is 0, which is the minimum possible.
 ## Solution
 
 **Language:** C  
-**Runtime:** 555 ms (beats 25.00%)  
-**Memory:** 19.6 MB (beats 33.33%)  
-**Submitted:** 2026-10-28T14:30:04.988Z  
+**Runtime:** 538 ms (beats 25.00%)  
+**Memory:** 19.8 MB (beats 33.33%)  
+**Submitted:** 2026-10-28T14:33:54.613Z  
 
 ```c
 int minCost(int** grid, int gridSize, int* gridColSize) {
